@@ -984,3 +984,7 @@ python scripts/workflow_boxes/box_01_luminancia.py
    [seção 12](#12-limiares-de-d--ks-em-outros-contextos)
 
 [`004_prometheus_histcdf_streamlit`](../004_prometheus_histcdf_streamlit/README.md)
+
+## Licença
+
+Código: GPL-3.0-or-later. Recursos de terceiros (dados, imagens, documentos) mantêm suas licenças/termos originais; consulte as fontes.
